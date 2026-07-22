@@ -1,4 +1,4 @@
-![Vast Development Method Logo](https://www.vdm.io/images/vast_development_method.jpg)
+![Vast Development Method](../img/vast_development_method.jpg)
 
 # GIVED
 
